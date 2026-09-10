@@ -145,7 +145,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated:
 
 ```text
-RAM: 2048 MB
+RAM: 4GB (Useable 3.8GB)
 ```
 ![](3-screenshot-kali-linux.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
@@ -304,10 +304,10 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Ahmad Hassan**\
+Cybersecurity Professional B083
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [https://www.linkedin.com/in/itxhassan](https://www.linkedin.com/in/itxhassan)
 
 ---
 
